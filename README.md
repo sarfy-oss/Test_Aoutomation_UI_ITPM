@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Registration Number:** IT23326222
+- **Registration Number:** IT23326422
 - **Module:** IT3040 – ITPM
 - **Assignment:** Assignment 1 (Option 2)
 
@@ -92,7 +92,7 @@ Adjust the `--url` parameter to point at different tools on the site when testin
 ## Author
 
 <<<<<<< HEAD
-IT23326222
+IT23326422
 =======
-IT23326222
+IT23326422
 >>>>>>> 2c22a56b2878a649075a8a7e235736019a48d291
