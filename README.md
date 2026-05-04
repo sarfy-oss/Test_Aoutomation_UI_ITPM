@@ -27,6 +27,12 @@ Tested features include:
 
 ---
 
+## Repository
+
+GitHub Repository: https://github.com/sarfy-oss/Test_Aoutomation_UI_ITPM.git
+
+---
+
 ## Project Contents
 
 - Manual Test Cases (Excel file)
@@ -63,10 +69,10 @@ python image_preview_test.py --url "https://www.pixelssuite.com/convert-to-png" 
 ```
 
 Adjust the `--url` parameter to point at different tools on the site when testing specific features.
-
 ---
 
 ## Notes
+
 
 - Ensure all required files are inside the project folder before running the script.
 - If running for the first time, Playwright will download browser binaries during `playwright install`.
@@ -85,4 +91,8 @@ Adjust the `--url` parameter to point at different tools on the site when testin
 
 ## Author
 
+<<<<<<< HEAD
 IT23326222
+=======
+IT23326222
+>>>>>>> 2c22a56b2878a649075a8a7e235736019a48d291
